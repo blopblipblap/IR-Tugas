@@ -1,0 +1,4 @@
+public repository: https://gitlab.com/vanessaemilyagape9000/medical-search
+link: http://35.239.130.203:8000/search
+
+Deployment menggunakan GCP Free Trial sehingga mungkin dikedepannya tidak bisa diakses. 
